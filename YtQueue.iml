@@ -4,14 +4,13 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="IntelliJ Annotation Supports" level="application" />
     <orderEntry type="library" name="JSoup 1.10.2" level="application" />
-    <orderEntry type="library" name="Gson 2.8.0" level="application" />
     <orderEntry type="library" name="VLCJ" level="application" />
-    <orderEntry type="library" scope="TEST" name="WebLaf 1.28" level="application" />
     <orderEntry type="library" name="JTattoo-1.6.11" level="application" />
   </component>
 </module>

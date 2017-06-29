@@ -15,8 +15,5 @@ public class YtQueueMain {
         }
         System.out.println(LibVlc.INSTANCE.libvlc_get_version());
         YtQueueFrame.INSTANCE.setVisible(true);
-        // Youtube.search("KK - 결벽증").page(1);
-        //YoutubeVideo video = new YoutubeVideo("5FiUImljGf8");
-        //video.parse();
     }
 }
