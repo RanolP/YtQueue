@@ -1,5 +1,4 @@
 # YtQueue
-<<<<<<< HEAD
 유튜브 영상을 검색하고, 재생하는 프로그램입니다.
 
 ## UI Information
