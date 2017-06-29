@@ -49,7 +49,6 @@ public class VideoViewer extends JPanel {
             JPanel p = new JPanel();
             p.add(stop, BorderLayout.WEST);
             JSlider volumeSlider = new JSlider(0, 100, 50);
-            JComboBox<?> box = new JComboBox();
             volumeSlider.addChangeListener(e -> {
                 PLAYER.setVolume(volumeSlider.getValue());
             });
