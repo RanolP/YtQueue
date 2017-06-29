@@ -1,5 +1,7 @@
 # YtQueue
 유튜브 영상을 검색하고, 재생하는 프로그램입니다.
+VLC media player 3.0.0 이상을 요구합니다.
+Nightly 빌드는 [이곳](https://nightlies.videolan.org/)에서 다운로드 가능합니다.
 
 ## UI Information
 ### Top bar
